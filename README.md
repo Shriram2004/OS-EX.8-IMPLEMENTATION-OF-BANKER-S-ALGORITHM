@@ -1,7 +1,7 @@
 # OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM
 
 ## AIM:
-    To implement the bankers Algorithm
+To implement the bankers Algorithm
 
 ## ALGORITHM:
 
